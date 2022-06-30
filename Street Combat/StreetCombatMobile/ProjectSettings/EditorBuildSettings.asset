@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: 9e754b60fbeb4864098a61194e134bea
+  - enabled: 1
+    path: Assets/Scenes/SelectionScreen.unity
+    guid: 5392cdc0c698e53409ac64f5a6166e18
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 7eb2eafd7eb515041aa1127adfa78b85
+  - enabled: 1
+    path: Assets/Scenes/GamePlayScreen.unity
+    guid: 1702ec7b47e98eb499e9033e62177da1
+  - enabled: 1
+    path: Assets/Scenes/ControlScreen.unity
+    guid: 3f8275f578084234cb0f70d5e6d17acf
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 121b68a762a065e459556f3d1ea405a1
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_1.unity
+    guid: 5cef66390c620594cbae8f680f1cae39
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_2.unity
+    guid: 7baf4668fa2bcc54c9f8b76b75a22f7a
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_3.unity
+    guid: dadf4f2ee5498fc42854e7a2b519fd13
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_4.unity
+    guid: a50458f6895459545bb6563a73519038
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_5.unity
+    guid: 8070a5bcb3f5e654ba483c89e0bdd893
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_6.unity
+    guid: ce786a3fb4cbd114390ed856dceecd17
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_7.unity
+    guid: 4cacf28cd4e186c4b9ec13f84fdcc9df
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_8.unity
+    guid: 24226fa6c44d539449c91cef48f3a2d3
+  - enabled: 1
+    path: Assets/Scenes/AISIMULATION_9.unity
+    guid: c8e60d0cc01fa3542ae007a0b7809ae8
+  m_configObjects: {}
